@@ -17,8 +17,9 @@
 - [filepond](https://pqina.nl/filepond/#profile-picture-demo): 이쁜 파일 업로더 (Javascript, React, ...)
 
 ### Apps
-- [zeplin](https://zeplin.io/): 디자인 앱, Photoshop 파일을 zeplin으로 변환 가능, 개발자 친화적
+- [Zeplin](https://zeplin.io/): 디자인 파일 보기 쉽게 변환해주는 앱
 - [MOS](https://mos.caldis.me/): MacOS에서 마우스 사용시 스크롤 부드럽게 처리
+- [Termius](https://termius.com/): SSH 이쁘고 편한 앱
 
 
 ### 문서, 블로그, 개발 뉴스 등
