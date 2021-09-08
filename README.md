@@ -13,6 +13,7 @@
 - [react-spaces](https://github.com/aeagle/react-spaces): 레이아웃간 사용자가 직접 사이즈 조절 가능하게 하는 라이브러리 (React)
 - [react-list](https://github.com/caseywebdev/react-list): 무한 스크롤 레이아웃 최적화 라이브러리 (React)
 - [inquirer](https://www.npmjs.com/package/inquirer): CLI 인터페이스 | 터미널에서 질문, 선택, 비밀번호 같은게 구현 가능하도록 하는 라이브러리 (Node.js)
+- [TOAST UI / Editor](https://ui.toast.com/tui-editor): 에디터 (Javascript, React, ...)
 
 
 ### 문서, 블로그, 개발 뉴스 등
