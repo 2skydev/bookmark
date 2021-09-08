@@ -16,6 +16,10 @@
 - [TOAST UI / Editor](https://ui.toast.com/tui-editor): 에디터 (Javascript, React, ...)
 - [filepond](https://pqina.nl/filepond/#profile-picture-demo): 이쁜 파일 업로더 (Javascript, React, ...)
 
+### Apps
+- [zeplin](https://zeplin.io/): 디자인 앱, Photoshop 파일을 zeplin으로 변환 가능, 개발자 친화적
+- [MOS](https://mos.caldis.me/): MacOS에서 마우스 사용시 스크롤 부드럽게 처리
+
 
 ### 문서, 블로그, 개발 뉴스 등
 - [TOAST UI / weekly-pick](https://ui.toast.com/weekly-pick/ko): 개발 블로그, 개발 뉴스
