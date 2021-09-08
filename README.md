@@ -1,5 +1,5 @@
 ### 개발 라이브러리, 프레임워크 등
-- [n8n](https://n8n.io/){: target="_blank"}: 워크플로우 자동화 (Node.js)
+- [n8n](https://n8n.io/): 워크플로우 자동화 (Node.js)
 - [dot-object](https://www.npmjs.com/package/dot-object): Object 관련 헬퍼 함수들 (Javascript)
 - [playwright](https://playwright.dev/): 웹 브라우저 테스트 도구, 크롤링, 브라우저 직접 컨르롤 (Node.js)
 - [rreweb](https://www.rrweb.io/): 웹 녹화, 디버깅, 사용자 분석 (Javascript)
