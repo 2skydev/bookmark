@@ -12,6 +12,7 @@
 - [docusaurus](https://docusaurus.io/ko/): 문서 웹 사이트 프레임워크 (React)
 - [react-spaces](https://github.com/aeagle/react-spaces): 레이아웃간 사용자가 직접 사이즈 조절 가능하게 하는 라이브러리 (React)
 - [react-list](https://github.com/caseywebdev/react-list): 무한 스크롤 레이아웃 최적화 라이브러리 (React)
+- [inquirer](https://www.npmjs.com/package/inquirer): CLI 인터페이스 | 터미널에서 질문, 선택, 비밀번호 같은게 구현 가능하도록 하는 라이브러리 (Node.js)
 
 
 ### 문서, 블로그, 개발 뉴스 등
@@ -19,3 +20,7 @@
 - [Naver / fw-news](https://github.com/naver/fe-news): 개발 뉴스
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript): Javascript에 관련된 컬렉션
 - [NaverD2 / flex 가이드](https://d2.naver.com/helloworld/8540176): flexbox로 만들 수 있는 10가지 레이아웃 가이드
+
+
+### 기타
+- [81 CSS Spinners](https://freefrontend.com/css-spinners/): 81개의 CSS 로딩 효과
