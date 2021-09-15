@@ -15,6 +15,7 @@
 - [inquirer](https://www.npmjs.com/package/inquirer): CLI 인터페이스 | 터미널에서 질문, 선택, 비밀번호 같은게 구현 가능하도록 하는 라이브러리 (Node.js)
 - [TOAST UI / Editor](https://ui.toast.com/tui-editor): 에디터 (Javascript, React, ...)
 - [filepond](https://pqina.nl/filepond/#profile-picture-demo): 이쁜 파일 업로더 (Javascript, React, ...)
+- [Recharts](https://recharts.org/en-US): 커스텀 고려한 차트 (React)
 
 ### Apps
 - [Zeplin](https://zeplin.io/): 디자인 파일 보기 쉽게 변환해주는 앱
